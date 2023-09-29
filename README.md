@@ -1,1 +1,1 @@
-# odin-recipes
+A website created solely on HTML where i use lists, different fonts and most of the usual HTML characteristics.
